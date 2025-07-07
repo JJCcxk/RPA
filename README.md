@@ -2,7 +2,7 @@
 
 This repository contains the official PyTorch implementation of **"Retinexformer on Performer Attention (RPA)"**, a novel low-light image enhancement (LLIE) model that integrates Retinex-based illumination decomposition with Performer-based attention enhanced by relative position encoding.
 
-> 📘 Paper: *Retinexformer on Performer Attention for Robust Low-Light Image Enhancement*  
+> 📘 Paper: *Enhancing Low-Light Images with Performer Attention: A Retinex-Based Approach*  
 > 📍 Submitted to [Soft Computing]    
 
 ---
