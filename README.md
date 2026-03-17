@@ -38,19 +38,6 @@ RPA consists of two stages:
 - tqdm
 
 
-###  Install the environment with Pytorch 
-
-- Make Conda Environment
-```
-conda create -n RPA python=
-conda activate RPA
-```
-
-- Install Dependencies
-```
-conda install pytorch=1.12.1 torchvision cudatoolkit=11.3 -c pytorch
-
-pip install matplotlib scikit-learn scikit-image opencv-python yacs joblib natsort h5py tqdm tensorboard
 
 ##  Prepare Dataset
 Download the following datasets:
