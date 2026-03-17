@@ -66,10 +66,4 @@ SDSD-indoor [Baidu Disk](https://pan.baidu.com/s/1rfRzshGNcL0MX5soRNuwTA?errmsg=
 SDSD-outdoor [Baidu Disk](https://pan.baidu.com/share/init?surl=JzDQnFov-u6aBPPgjSzSxQ) (code: `uibk`), [Google Drive](https://drive.google.com/drive/folders/14TF0f9YQwZEntry06M93AMd70WH00Mg6)
 
 
-## 📥 Model Access
 
-If you require pretrained model weights for evaluation or reproduction, feel free to contact us directly at:
-
-📧 **yijindiao@163.com**
-
-We are happy to share the weights upon request.
